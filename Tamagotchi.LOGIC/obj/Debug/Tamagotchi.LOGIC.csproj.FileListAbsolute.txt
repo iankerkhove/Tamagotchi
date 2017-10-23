@@ -1,0 +1,1 @@
+C:\Users\ian\Desktop\Visual Studio\Ian Kerkhove\C#\02- Events\01-Exercise---Tamagotchi\Tamagotchi.LOGIC\obj\Debug\Tamagotchi.LOGIC.csprojResolveAssemblyReference.cache
